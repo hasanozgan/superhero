@@ -1,0 +1,19 @@
+<!-- @@DAL_SP@@ -->
+
+USE [@@DB_NAME@@]
+GO
+
+DROP PROCEDURE @@SP_NAME@@
+GO
+
+CREATE PROCEDURE @@SP_NAME@@
+AS
+BEGIN
+	SELECT     
+		@@SELECT_FIELD_NAMES@@
+	FROM @@TABLE_NAME@@
+END
+GO
+
+
+<!-- @@DAL_SP@@ -->

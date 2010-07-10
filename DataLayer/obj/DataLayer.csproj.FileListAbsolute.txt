@@ -1,0 +1,10 @@
+C:\Projects\Netology.SuperHero\DataLayer\obj\Debug\ResolveAssemblyReference.cache
+C:\Projects\Netology.SuperHero\DataLayer\bin\Debug\DataLayer.dll
+C:\Projects\Netology.SuperHero\DataLayer\bin\Debug\DataLayer.pdb
+C:\Projects\Netology.SuperHero\DataLayer\obj\Debug\DataLayer.dll
+C:\Projects\Netology.SuperHero\DataLayer\obj\Debug\DataLayer.pdb
+C:\Projects\x\Netology.SuperHero\DataLayer\bin\Debug\DataLayer.dll
+C:\Projects\x\Netology.SuperHero\DataLayer\bin\Debug\DataLayer.pdb
+C:\Projects\x\Netology.SuperHero\DataLayer\obj\Debug\ResolveAssemblyReference.cache
+C:\Projects\x\Netology.SuperHero\DataLayer\obj\Debug\DataLayer.dll
+C:\Projects\x\Netology.SuperHero\DataLayer\obj\Debug\DataLayer.pdb
